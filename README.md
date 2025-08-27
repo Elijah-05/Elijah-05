@@ -12,38 +12,16 @@ I'm a **Senior Front-End Developer | UI/UX Designer | Graphic Designer** passion
 
 ---
 
-## 💼 Professional Experience  
-- **Front-End Web App Developer** @ Ablaze Labs *(Sept 2023 - Present)*  
-  - Enhanced performance via code optimization, lazy loading, and modular design.  
-  - Built real-time interactive betting games and a Medical Quiz Web App for students.  
-
-- **React Native & Front-End Developer** @ AddisSystems PLC *(2023 - 2024)*  
-  - Developed scalable educational platforms and e-commerce solutions.  
-  - Integrated RESTful APIs & GraphQL, boosting data-driven functionality.  
-
-- **UI/UX Developer & Graphic Designer** @ CreativeHub Studio *(2022 - 2023)*  
-  - Translated Figma & Adobe-XD wireframes into pixel-perfect web interfaces.  
-  - Built reusable UI components to streamline development workflows.  
-
----
-
 ## 🎓 Education  
 **Bachelor of Science in Engineering**  
-Institute of Technology | Jimma University  
+Institute of Technology | Jimma Institute of Technology 
 
 ---
 
 ## 🌐 Connect With Me  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://elyasdev.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elyas-abebe)  
-[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ElyasAbebe)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Elijah-05)  
-
----
-
-## 📊 GitHub Stats  
-![Elyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elijah-05&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elijah-05&layout=compact&theme=radical)  
+[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ElyasAbebe)
 
 ---
 
